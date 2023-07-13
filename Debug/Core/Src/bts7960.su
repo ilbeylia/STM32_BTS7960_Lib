@@ -1,0 +1,2 @@
+../Core/Src/bts7960.c:10:6:bts7960_init	24	static
+../Core/Src/bts7960.c:23:6:bts_start	16	static
