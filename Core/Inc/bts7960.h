@@ -6,6 +6,7 @@
  */
 
 #include "stm32f4xx.h"
+
 #ifndef INC_BTS7960_H_
 #define INC_BTS7960_H_
 
@@ -13,6 +14,7 @@ typedef enum{
 	STOP,
 	START,
 }bts_state;
+
 
 
 typedef struct{
